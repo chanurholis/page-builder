@@ -1,7 +1,6 @@
-# Page Builder MVP
+# Page Builder
 
 Public page builder — Nuxt 4 + PostgreSQL + Drizzle ORM.  
-Signup → buat halaman → publish → track kunjungan & klik.
 
 ## Quickstart
 
